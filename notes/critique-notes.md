@@ -1,7 +1,7 @@
 # Introductory Notes to Kant's Critique of Pure Reason
 Kant's *Critique of Pure Reason* takes the following overarching structure. There are two main parts, the *Transcendental Doctrine of Elements*, which present the *elements* of Kant's Transcendental Idealism. Followed by the *Transcendental Doctrine of the Method*, which we do not address in our studies. Hence, we will focus only on the *Transcendental Doctrine of Elements*.
 
-## General Structure of the Critique
+## General Structure of the Transcendental Doctrine of Elements
 * Transcendental Aesthetic
 * Transcendental Logic
   * Transcendental Analytic
@@ -39,12 +39,22 @@ Analytic knowledge is knowledge that is yielded through the analysis (examinatio
 Now that we have summarised the main concepts which are instrumental in understanding Kant's Transcendental Metaphysics, it is time to comment on the body of his Critique itself. We will go through the two main sections, corresponding to the three human faculties of sensibility, understanding, and reason.
 
 ## Notes on the Transcendental Aesthetic
+The transcendental aesthetic is Kant's treatment on the faculty of sensation, and it's associated science of aesthetics. His ultimate conclusion in this (thankfully brief) section is that all sensation is underpinned by two a priori forms:
+* The a priori form of space, which corresponds to the outer sense
+* The a priori form of time, which corresponds to the inner sense
+
+Kant later shows how these two a priori forms later combine with the faculty of understanding to yield a dizzying variety of fruitful subjects, such as mathematics and the physical sciences.
 
 ### Space
+* Corresponds with the outer sense.
+* Yields synthetic a priori truths which serves as the foundation for geometry, and hence mathematics.
 
 ### Time
+* Corresponds with the inner sense.
+* Yields synthetic a priori truths which serves as the foundation for physics, and hence the natural sciences.
 
 ## Notes on the Transcendental Logic (Analytic)
+The process in which Kant analysed the faculty of intuition in order to yield the pure elements of intuition (the aforementioned a priori forms of space and time), is now repeated with the faculty of understanding. The science of understanding is logic, and hence Kant entitles this section the *Transcendental Logic*.
 
 ### Analysis of Concepts
 
