@@ -40,6 +40,24 @@ Now that we have summarised the main concepts which are instrumental in understa
 
 ## Notes on the Transcendental Aesthetic
 
+### Space
+
+### Time
+
 ## Notes on the Transcendental Logic (Analytic)
 
+### Analysis of Concepts
+
+### Analysis of Principles
+
 ## Notes on the Transcendental Logic (Dialectic)
+
+### The Transcendental Illusion
+
+### Dialectical Inferences of Pure Reason
+
+### Paralogisms
+
+### Antinomies
+
+### The Theological Ideal
