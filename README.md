@@ -1,7 +1,10 @@
-# Essay on Kant's Critique of Pure Reason
-Junior Year Essay for St. John's College, by Shen Zhou Hong.
+# A Tourist’s Journal of the Critiqe: A Hike with Kant in the Land of Transcendental Metaphysics
+2021 Junior Year Essay for St. John's College, by Shen Zhou Hong.
 
-### Compiling document
+## Access to the compiled PDF
+In order to view the compiled essay PDF, visit the 'releases' page on GitHub. A Download is provided at that location.
+
+## Compiling document
 In order to compile latex source files, run `make` in the terminal:
 ```
 cd latex
@@ -43,10 +46,3 @@ For an overview of how to populate biblatex `citations.bib` files, visit the
 biblatex-mla manual at CTAN.
 
 * https://www.ctan.org/pkg/biblatex-mla
-
-### GPLv3 License
-The raw template itself is licensed under the terms of the GPL (version 3). A
-full copy of the license is attached in `LICENSE.md`. Naturally, any works
-that you create using this template (i.e. any actual essays you write using
-it) will be your own intellectual property. The GPLv3 license only applies to
-any derivative templates.
