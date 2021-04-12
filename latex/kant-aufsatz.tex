@@ -22,7 +22,7 @@
   final,      % draft
   onecolumn,  % twocolumn
   oneside,    % twoside
-  notitlepage % titlepage
+  titlepage % titlepage
 ]{article}
 
 % Included documents in the preamble. Caution: Their order is important!
@@ -42,8 +42,8 @@
 % Document Begins
 \begin{document}
 \maketitle
-% \tableofcontents Optional table-of-contents
-% \clearpage clears page on table of contents so content starts on new page.
+\tableofcontents
+\clearpage
 
 % Includes content body. If the essay is very long, it might make sense to split
 % the content across multiple .tex files, and include them all here, e.g.
