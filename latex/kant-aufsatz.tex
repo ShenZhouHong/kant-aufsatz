@@ -30,28 +30,18 @@
 \input{includes/formatting.tex}
 \addbibresource{../sources/citations.bib}
 
-% Document Metadata
-\title{
-  \textbf{\textsc{A Tourist's Journal \\ of the Critique:}} \\ A Hike with Kant in the Land of \\ Transcendental Metaphysics
-}
-\author{
-  By Shen Zhou Hong \and St. John's College
-}
-\date{\today}
-
 % Document Begins
 \begin{document}
 \maketitle
-% \tableofcontents
+\tableofcontents
 % \clearpage
 
 % Includes content body. If the essay is very long, it might make sense to split
 % the content across multiple .tex files, and include them all here, e.g.
 %\input{sections/preamble.tex}
-\input{sections/intro.tex}
-\input{sections/body.tex}
-\input{sections/conclusion.tex}
-\clearpage
-\input{sections/endpage.tex}
+\include{sections/intro.tex}
+\include{sections/body.tex}
+\include{sections/conclusion.tex}
+\include{sections/endpage.tex}
 
 \end{document}

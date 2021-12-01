@@ -10,7 +10,7 @@ $(source_name).pdf: $(source_name).tex
 	# This makefile uses xelatex by default. This way, it supports unicode
 	# characters in the latex source files. If you wish to use latex instead of
 	# xelatex, simply remove the -xelatex argument
-	latexmk -pdf -xelatex -use-make $<
+	latexmk -pdf -lualatex -use-make $<
 
 clean:
 	latexmk -c
