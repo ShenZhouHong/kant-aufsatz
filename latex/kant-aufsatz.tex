@@ -17,18 +17,28 @@
 % For more information on documentclass configuration, see:
 % https://texblog.org/2013/02/13/latex-documentclass-options-illustrated/#formula
 \documentclass[
-  10pt,       % 10pt, 11pt, 12pt
-  letterpaper,    % a4paper, letterpaper, a5paper, b5paper, executivepaper, legalpaper
-  final,      % draft
-  onecolumn,  % twocolumn
-  oneside,    % twoside
-  titlepage % titlepage
-]{article}
+  protrudelabels,
+  onehalfspacing,
+  extraligatures,
+  titlepage,
+  english
+]{humanize}
+
+\input{configuration.tex}
+
+% Document Metadata
+\title{
+  \textbf{\textsc{A Tourist's Journal \\ of the Critique:}} \\ A Hike with Kant in the Land of \\ Transcendental Metaphysics
+}
+\author{
+  By Shen Zhou Hong \and St.\ John's College
+}
+\date{April 12th, 2021}
 
 % Included documents in the preamble. Caution: Their order is important!
-\input{includes/packages.tex}
-\input{includes/formatting.tex}
-\addbibresource{../sources/citations.bib}
+% \input{includes/packages.tex}
+% \input{includes/formatting.tex}
+% \addbibresource{../sources/citations.bib}
 
 % Document Begins
 \begin{document}
